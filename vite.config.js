@@ -14,5 +14,5 @@ export default defineConfig({
       styles: '/src/styles',
     },
   },
-  base: '/project-Power-7',
+  base: '/fs-90-react-node-sergeycrew',
 });
