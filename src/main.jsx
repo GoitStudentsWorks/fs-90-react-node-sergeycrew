@@ -13,7 +13,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <Provider store={store}>
       <PersistGate loading={null} persistor={persistor}>
-        <BrowserRouter basename="/project-Power-7">
+        <BrowserRouter basename="/fs-90-react-node-sergeycrew">
           <ThemeProvider theme={theme}>
             <App />
             <GlobalStyle />
